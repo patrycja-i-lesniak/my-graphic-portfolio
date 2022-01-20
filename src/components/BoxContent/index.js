@@ -14,7 +14,7 @@ margin: 120px auto;
 `
 
 const Header = styled.h1`
-width: 60vw;
+width: 600px;
   font-size: 30px;
   font-weight: 300;
   color: grey;
