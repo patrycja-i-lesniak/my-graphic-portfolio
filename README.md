@@ -1,3 +1,17 @@
+# MY GRAPHIC PORTFOLIO
+
+Strona przygotowana na potrzeby rekrutacji.
+* Author: **Patrycja Leśniak**
+* Work in progress.
+* October, 2021.
+
+## Technologies
+Project is created with:
+* Semantic HTML
+* CSS (styled components, grid, flex)
+* React.js
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
