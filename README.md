@@ -1,5 +1,7 @@
 # MY GRAPHIC PORTFOLIO
 
+DEMO: https://patrycja-i-lesniak.github.io/my-graphic-portfolio/
+
 Strona przygotowana na potrzeby rekrutacji.
 * Author: **Patrycja Leśniak**
 * Work in progress.
